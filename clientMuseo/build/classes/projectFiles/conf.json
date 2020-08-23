@@ -1,0 +1,8 @@
+{
+	"name":"Client",
+	"server_address":"http://localhost",
+	"server_port":"9000",
+	"directory":"src/projectFiles/",
+        "access_token":"3091316179-58WoG1b5Ce9dbMGj0nembFkZ1J9HIDhkoLICdHq",
+	"secret_token":"n8UFoduiRjdwrp754Td1tseo3cqbDwldMbdReIUTd72lF"
+}
