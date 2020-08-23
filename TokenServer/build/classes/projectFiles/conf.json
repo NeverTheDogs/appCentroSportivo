@@ -1,0 +1,10 @@
+{
+    "name":"tokenServer",
+    "server_address":"localhost",
+    "server_port":"9001",
+    "directory":"src/projectFiles/",
+    "consumer_key":"o5AAeBhzW0wU7jXiL3hOQjSlT",
+    "consumer_sec":"cyR3mJ7CUDayczQCvYcuJnU8HucjX1llcz48lyJKMLOy4uugS3",
+    "access_token":"3091316179-BFF1j6sytOOvhYYDnRg8HW3wRXlRz8ZecToGWjD",
+    "secret_token":"FFdnJerACxsVoMncMvZ1qijtN3scxjevRfYeF41aZG906"   
+}

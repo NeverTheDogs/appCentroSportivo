@@ -1,0 +1,9 @@
+{
+    "name":"Server",
+    "server_address":"localhost",
+    "server_port":"9000",
+    "directory":"/Users/Cristian/Desktop/PROGRAMMAZIONE2/serverMuseo/src/projectFiles/",
+    "consumer_key":"o5AAeBhzW0wU7jXiL3hOQjSlT",
+    "consumer_sec":"cyR3mJ7CUDayczQCvYcuJnU8HucjX1llcz48lyJKMLOy4uugS3",
+    "dropbox_tok":"Jq34HJAx38AAAAAAAAABAnjZV4Ufr6iXGBo234FjkVLiPrESxnEDfogRb14r_aXw"
+}
